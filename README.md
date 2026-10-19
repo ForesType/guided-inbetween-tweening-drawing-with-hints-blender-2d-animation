@@ -41,6 +41,6 @@ https://github.com/user-attachments/assets/b9ef0ae8-38ba-4a1a-9703-af8ba9c706af
 
 ---
 
-Made with ❤️ for animators
+Made with ❤️ (and chatGPT) for animators
 
 
